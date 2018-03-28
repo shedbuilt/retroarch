@@ -1,0 +1,8 @@
+NAME=retroarch
+VERSION=1.7.1
+REVISION=1
+LICENSE=GPL-3.0-only
+SRC=https://github.com/libretro/RetroArch/archive/v1.7.1.tar.gz
+SRCMD5=c131d9a68f1d2c381e59dd9d9a1b568f
+BUILDDEPS=alsa-lib sdl freetype2
+INSTALLDEPS=alsa-lib sdl freetype2
